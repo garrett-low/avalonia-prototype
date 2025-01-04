@@ -73,6 +73,7 @@
                 Calculate
             </Button>
         </Grid>
+        <DataGrid />
     </StackPanel>
 
 </Window>
